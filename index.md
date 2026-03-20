@@ -7,3 +7,7 @@ Texto aqui
 
 ## Secção 2
 Mais conteúdo
+
+Aqui podes consultar o documento completo.
+
+[👉 Abrir PDF](documento.pdf)
